@@ -34,6 +34,6 @@ Graph Neural Networks for materials
 High-Performance Computing (HPC) workflows
 
 📫 Let's Connect
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/prashik-darunde/
 
 Email: [phd124@ic.ac.uk]
