@@ -1,6 +1,8 @@
 **📦 Sodium-Ion Cathode Discovery**
+
 Data-Driven Screening Using Machine Learning and Computational Modeling
 🧠 Overview
+
 This project explores the intelligent discovery and optimization of sodium-ion battery (SIB) cathode materials using machine learning, materials informatics, and advanced computational frameworks. It is part of an MSc thesis at Imperial College London – Department of Materials.
 
 Key research goals:
@@ -12,6 +14,7 @@ Develop a new database of NaxNi₀.₅MayMbzO₂ cathode materials using DFT and
 Enable reverse design of high-performance SIB cathodes through ML-guided screening.
 
 🎯 Key Topics Covered
+
 Combinatorial Explosion in materials discovery
 
 Chemical Filtering using SMACT rules and oxidation states
@@ -37,6 +40,7 @@ Installation of SMACT, Chemeleon, MACE
 VASP pre-configuration (license required)
 
 📚 References
+
 H. Park et al., Exploration of crystal chemical space using text-guided generative AI, Nat. Commun. (2025)
 
 H. Park et al., Mapping inorganic crystal chemical space, Faraday Discuss. (2024)
