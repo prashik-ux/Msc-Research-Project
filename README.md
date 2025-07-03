@@ -33,7 +33,7 @@ Enable reverse design of high-performance SIB cathodes through ML-guided screeni
 
 ## 🚀 Getting Started
 
-Refer to pre-course/setup.md for instructions on:
+Refer to `pre-course/setup.md` for instructions on:
 
 Python environment setup
 
