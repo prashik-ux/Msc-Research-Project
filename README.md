@@ -1,39 +1,58 @@
-**Hi there 👋, I'm Prashik Darunde**
+**📦 Sodium-Ion Cathode Discovery**
+Data-Driven Screening Using Machine Learning and Computational Modeling
+🧠 Overview
+This project explores the intelligent discovery and optimization of sodium-ion battery (SIB) cathode materials using machine learning, materials informatics, and advanced computational frameworks. It is part of an MSc thesis at Imperial College London – Department of Materials.
 
-🎓 MSc Materials Science | Imperial College London
-🔬 Researcher in **Data-Driven Materials Discovery**
-⚡ Passionate about **Machine Learning, Computational Chemistry, and Energy Storage Technologies**
+Key research goals:
 
+Predict voltage, phase stability, and volumetric changes of O3-type layered transition metal oxides.
 
-🚀 About Me
-🔍 Currently working on Sodium-Ion Battery Cathode Discovery using Machine Learning and Density Functional Theory (DFT).
+Develop a new database of NaxNi₀.₅MayMbzO₂ cathode materials using DFT and machine learning-based feature extraction.
 
-💡 Focused on materials informatics, sustainable energy solutions, and advanced computational modeling.
+Enable reverse design of high-performance SIB cathodes through ML-guided screening.
 
-🛠️ Skilled in Python, data science, SolidWorks, AutoCAD, and experimental materials characterization.
+🎯 Key Topics Covered
+Combinatorial Explosion in materials discovery
 
-🛠️ Tech Stack
-**Languages**: Python, MATLAB, SQL
+Chemical Filtering using SMACT rules and oxidation states
 
-**Tools**: SMACT, Chameleon, MACE-MP, VASP, Quantum ESPRESSO
+Compositional & Stoichiometric Screening of transition metal oxides
 
-**Data Science**: scikit-learn, XGBoost, pandas, matplotlib
+Structure Prediction using Chemeleon
 
-**Modeling & Simulation**: SolidWorks, AutoCAD
+Advanced Computational Methods, including:
 
-📂 Featured Project
-📊 Data-Driven Screening of Sodium-Ion Cathodes
-Leveraging machine learning and computational methods to accelerate the discovery of high-performance sodium-ion battery materials.
+Machine Learning Force Fields (MLFF) with MACE
 
+Density Functional Theory (DFT) with VASP
 
-🌱 Currently Learning
-Advanced DFT Modeling
+Graph-based models for phase stability prediction
+🚀 Getting Started
+Refer to pre-course/setup.md for instructions on:
 
-Graph Neural Networks for materials
+Python environment setup
 
-High-Performance Computing (HPC) workflows
+Installation of SMACT, Chemeleon, MACE
 
-📫 Let's Connect
-LinkedIn: https://www.linkedin.com/in/prashik-darunde/
+VASP pre-configuration (license required)
 
-Email: [phd124@ic.ac.uk]
+📚 References
+H. Park et al., Exploration of crystal chemical space using text-guided generative AI, Nat. Commun. (2025)
+
+H. Park et al., Mapping inorganic crystal chemical space, Faraday Discuss. (2024)
+
+D.W. Davies et al., SMACT: Semiconducting Materials by Analogy and Chemical Theory, JOSS 4, 1361 (2019)
+
+D.W. Davies et al., Computational screening of all stoichiometric inorganic materials, Chem 1, 617 (2016)
+
+💡 Acknowledgments
+Prof. Aron Walsh, Prof. Theoni Georgiou, and the Materials Design Group at Imperial College London
+
+SMACT & Chemeleon developers for their open-source contributions
+
+The Jupyter Book and MLFF (MACE) community
+
+All collaborators and mentors contributing to this data-driven materials discovery pipeline
+
+⚖️ License
+This project is licensed under the MIT License – see the LICENSE file for more details.
