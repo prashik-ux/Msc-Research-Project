@@ -58,7 +58,7 @@ VASP pre-configuration (license required)
 "Computational screening of all stoichiometric inorganic materials" _Chem_ **1**, 617 (2016)](<http://www.cell.com/chem/abstract/S2451-9294(16)30155-3>)
 
 ## 💡 Acknowledgments
-Prof. Aron Walsh, Prof. Theoni Georgiou, and the Materials Design Group at Imperial College London
+Prof. Aron Walsh, Prof. Theoni Georgiou, and the Materials Design Group at [Imperial College London](https://www.imperial.ac.uk/)
 
 SMACT & Chemeleon developers for their open-source contributions
 
