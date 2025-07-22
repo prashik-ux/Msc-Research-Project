@@ -65,6 +65,3 @@ SMACT & Chemeleon developers for their open-source contributions
 The Jupyter Book and MLFF (MACE) community
 
 All collaborators and mentors contributing to this data-driven materials discovery pipeline
-
-⚖️ License
-This project is licensed under the MIT License – see the LICENSE file for more details.
