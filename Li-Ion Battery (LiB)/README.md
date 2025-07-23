@@ -67,4 +67,4 @@ Prof. Aron Walsh and the Materials Design Group
 
 Contributors to pymatgen, ASE, SMACT, Matminer, and VASP
 
-Funding sources and collaborators (if applicable)
+
