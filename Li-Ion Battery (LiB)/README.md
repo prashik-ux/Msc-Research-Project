@@ -1,6 +1,8 @@
 🔋 LiMatML: Machine Learning & DFT for Lithium-Ion Battery Cathode Discovery
+
 Data-Driven Discovery of High-Performance Cathodes for Lithium-Ion Energy Storage
-🧠 Overview
+
+#🧠 Overview
 LiMatML is a research project focused on accelerating the discovery of next-generation lithium-ion battery (LIB) cathode materials using a combination of machine learning (ML) and density functional theory (DFT). The goal is to enhance the energy density, cycle life, and thermal stability of LIBs for applications in electric vehicles, consumer electronics, and grid storage.
 
 This repository contains tools and workflows for compositional screening, structural prediction, and high-throughput property evaluation of layered transition metal oxides (LTMOs), spinels, and polyanionic cathodes.
