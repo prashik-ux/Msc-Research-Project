@@ -29,7 +29,8 @@ Lithium diffusion pathways
 ### Explore doping and substitution strategies to enhance electrochemical performance
 
 ## 🧪 Features
-Feature	Description
+Feature	and Description
+
 🔍 High-throughput screening	SMACT + ML filtering for chemical plausibility and performance
 
 🧬 Structure generation	Predict crystal structures using Chemeleon and pymatgen
