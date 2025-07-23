@@ -31,9 +31,13 @@ Lithium diffusion pathways
 ## 🧪 Features
 Feature	Description
 🔍 High-throughput screening	SMACT + ML filtering for chemical plausibility and performance
+
 🧬 Structure generation	Predict crystal structures using Chemeleon and pymatgen
+
 🧠 Machine learning models	Trained on experimental and DFT data to predict key electrochemical metrics
+
 ⚙️ DFT calculations	VASP-based workflows for evaluating structural and electronic properties
+
 📊 Visual analytics	Jupyter notebooks for data visualization and performance comparison
 
 ## 🧰 Tools & Frameworks
