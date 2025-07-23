@@ -59,3 +59,23 @@ Machine Learning	XGBoost, Random Forest, LightGBM
 DFT Engine	VASP, Quantum ESPRESSO
 Feature Extraction	Matminer, Magpie, custom descriptors
 Visualization	Seaborn, Matplotlib, Plotly
+
+## 📚 References
+X. Wu et al., Recent Progress in K-Ion Battery Materials, J. Mater. Chem. A (2023)
+
+D. Wu et al., High-throughput design of K cathodes, Energy Storage Mater. (2022)
+
+S. Manna et al., ML for Alkali-Ion Batteries, Materials Advances (2022)
+
+Materials Project & Open Quantum Materials Database (OQMD)
+
+SMACT, pymatgen, Matminer documentation
+
+## 🤝 Acknowledgments
+Imperial College Materials Design Group
+
+Mentorship from Prof. Aron Walsh
+
+Open-source contributors to VASP, SMACT, Matminer, Chemeleon, and ASE
+
+Community datasets from Materials Project, OQMD, and KIB experimental consortia
